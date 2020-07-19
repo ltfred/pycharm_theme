@@ -1,2 +1,2 @@
 ## use
-```Preferences-color scheme-import scheme...```
+```Preferences->color scheme->import scheme...```
