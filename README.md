@@ -1,2 +1,2 @@
-# theme
-pycharm theme
+## use
+```Preferences->color scheme->import scheme...```
